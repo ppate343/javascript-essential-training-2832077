@@ -1,8 +1,8 @@
 /**
  * Creating classes:
  *
- * Class declaration: class Name {}
- * Class expression:  const Name = class {}
+ * Class declaration: class Name {} - 
+ * Class expression:  const Name = class {} - 
  */
 
 class Backpack {
